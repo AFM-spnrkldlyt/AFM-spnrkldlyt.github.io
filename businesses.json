@@ -1,0 +1,259 @@
+[
+  {
+    "name": "Architect",
+    "category": "Architect",
+    "city": "Miraj",
+    "description": "Experienced architect offering innovative designs for homes, offices, and commercial spaces. Blending aesthetics with functionality to bring your vision to life.",
+    "image": "images/architect.jpg",
+    "contact": "9876501234",
+    "whatsapp": "https://wa.me/919876501234",
+    "social": {
+      "facebook": "https://facebook.com/chefAnita"
+    },
+    "address": "Station Road, Miraj",
+    "map": "https://goo.gl/maps/example2",
+    "icon": "icons/chef.png",
+    "priority": 8
+  },
+  {
+    "name": "Happy Days - Cake",
+    "category": "Cake",
+    "city": "Miraj",
+    "description": "A cozy cake shop serving soft, delicious, and beautifully decorated cakes. Whether you want a quick treat or a designer cake, we promise freshness, taste, and happiness in every bite.",
+    "image": "images/happy_days.jpg",
+    "contact": "9876501234",
+    "whatsapp": "https://wa.me/919876501234",
+    "social": {
+      "facebook": "https://facebook.com/chefAnita"
+    },
+    "address": "Near Asha Talkies, Miraj",
+    "map": "https://goo.gl/maps/example2",
+    "icon": "icons/chef.png",
+    "priority": 6
+  },
+  {
+    "name": "New Mumbai Cake Shop",
+    "category": "Cake",
+    "city": "Miraj",
+    "description": "Freshly baked cakes made with love! From classic chocolate to delightful fruit flavors, we create cakes that make every celebration special. Custom orders available for birthdays, weddings, and all occasions.",
+    "image": "images/new_mumbai_cake.png",
+    "contact": "9876501234",
+    "whatsapp": "https://wa.me/919876501234",
+    "social": {
+      "facebook": "https://facebook.com/chefAnita"
+    },
+    "address": "Near New English School, Miraj",
+    "map": "https://goo.gl/maps/example2",
+    "icon": "icons/chef.png",
+    "priority": 9
+  },
+  {
+    "name": "Cleaner",
+    "category": "Cleaner",
+    "city": "Miraj",
+    "description": "Reliable cleaning services to keep your home and office spotless.",
+    "image": "images/cleaner.jpg",
+    "contact": "9876501234",
+    "whatsapp": "https://wa.me/919876501234",
+    "social": {
+      "facebook": "https://facebook.com/chefAnita"
+    },
+    "address": "Station Road, Miraj",
+    "map": "https://goo.gl/maps/example2",
+    "icon": "icons/chef.png",
+    "priority": 8
+  },
+  {
+    "name": "Chai Sutta Bar - Cafe",
+    "category": "Cafe",
+    "city": "Miraj",
+    "description": "Serving aromatic tea in eco-friendly kulhads for a rustic and authentic flavor. The perfect spot to enjoy a hot chai with friends and conversations.",
+    "image": "images/chai_sutta_bar.jpg",
+    "contact": "9876501234",
+    "whatsapp": "https://wa.me/919876501234",
+    "social": {
+      "facebook": "https://facebook.com/chefAnita"
+    },
+    "address": "Near Gov. Medical College, Miraj",
+    "map": "https://goo.gl/maps/example2",
+    "icon": "icons/chef.png",
+    "priority": 8
+  },
+  {
+    "name": "Dac Denil - Cafe",
+    "category": "Cafe",
+    "city": "Miraj",
+    "description": "Cozy 24/7 café serving freshly brewed coffee, snacks, and comfort food any time of the day or night.",
+    "image": "images/dac_denils.jpg",
+    "contact": "9876501234",
+    "whatsapp": "https://wa.me/919876501234",
+    "social": {
+      "facebook": "https://facebook.com/chefAnita"
+    },
+    "address": "Sangli-Miraj Road, Miraj",
+    "map": "https://goo.gl/maps/example2",
+    "icon": "icons/chef.png",
+    "priority": 8
+  },
+  {
+    "name": "Smile Pizza - Cafe",
+    "category": "Cafe",
+    "city": "Miraj",
+    "description": "From classic Margherita to fully loaded delights, we bake the town’s favorite pizzas with the freshest ingredients and authentic flavors. One bite, and you’ll know why we’re the best!",
+    "image": "images/smile_pizza.jpg",
+    "contact": "9876501234",
+    "whatsapp": "https://wa.me/919876501234",
+    "social": {
+      "facebook": "https://facebook.com/chefAnita"
+    },
+    "address": "Near Adarsh School, Miraj",
+    "map": "https://goo.gl/maps/example2",
+    "icon": "icons/chef.png",
+    "priority": 8
+  },
+  {
+    "name": "Vintage Cafe",
+    "category": "Cafe",
+    "city": "Miraj",
+    "description": "A cozy café serving freshly brewed coffee, teas, and quick bites — the perfect place to relax, work, or catch up with friends.",
+    "image": "images/vintage_cafe.jpg",
+    "contact": "9876501234",
+    "whatsapp": "https://wa.me/919876501234",
+    "social": {
+      "facebook": "https://facebook.com/chefAnita"
+    },
+    "address": "Near Ambdekar Garden, Miraj",
+    "map": "https://goo.gl/maps/example2",
+    "icon": "icons/chef.png",
+    "priority": 9
+  },
+  {
+    "name": "Dr. Chavan",
+    "category": "Doctor",
+    "city": "Miraj",
+    "description": "Offering expert consultation and treatment with years of medical experience. Dedicated to ensuring patient well-being with compassion and care.",
+    "image": "images/chavan.png",
+    "contact": "9876501234",
+    "whatsapp": "https://wa.me/919876501234",
+    "social": {
+      "facebook": "https://facebook.com/chefAnita"
+    },
+    "address": "Near Ambdekar Garden, Miraj",
+    "map": "https://goo.gl/maps/example2",
+    "icon": "icons/chef.png",
+    "priority": 8
+  },
+  {
+    "name": "More - Electrician",
+    "category": "Electrician",
+    "city": "Miraj",
+    "description": "Professional electrician offering quick and safe solutions for wiring, lighting, and electrical maintenance for homes and businesses.",
+    "image": "images/electrician.png",
+    "contact": "9876501234",
+    "whatsapp": "https://wa.me/919876501234",
+    "social": {
+      "facebook": "https://facebook.com/chefAnita"
+    },
+    "address": "Near Ambdekar Garden, Miraj",
+    "map": "https://goo.gl/maps/example2",
+    "icon": "icons/chef.png",
+    "priority": 8
+  },
+  {
+    "name": "Fabrication Works",
+    "category": "Fabrication",
+    "city": "Miraj",
+    "description": "Skilled fabricator offering welding, cutting, and metal repair services with precision and reliability.",
+    "image": "images/fabrication.jpg",
+    "contact": "9876501234",
+    "whatsapp": "https://wa.me/919876501234",
+    "social": {
+      "facebook": "https://facebook.com/chefAnita"
+    },
+    "address": "Sangli-Miraj Road, Miraj",
+    "map": "https://goo.gl/maps/example2",
+    "icon": "icons/chef.png",
+    "priority": 8
+  },
+  {
+    "name": "Old Mumbai - Icecream",
+    "category": "Ice Cream",
+    "city": "Miraj",
+    "description": "A delightful ice cream parlour offering classic scoops, sundaes, and unique flavors. Perfect place to chill with friends and family.",
+    "image": "images/old_mumbai_ice_cream.jpg",
+    "contact": "9876501234",
+    "whatsapp": "https://wa.me/919876501234",
+    "social": {
+      "facebook": "https://facebook.com/chefAnita"
+    },
+    "address": "Near Ambdekar Garden, Miraj",
+    "map": "https://goo.gl/maps/example2",
+    "icon": "icons/chef.png",
+    "priority": 8
+  },
+  {
+    "name": "Mechanic",
+    "category": "Mechanic",
+    "city": "Miraj",
+    "description": "Expert mechanic for quick and reliable vehicle repairs and servicing.",
+    "image": "images/mechanic.jpg",
+    "contact": "9876501234",
+    "whatsapp": "https://wa.me/919876501234",
+    "social": {
+      "facebook": "https://facebook.com/chefAnita"
+    },
+    "address": "Station Road, Miraj",
+    "map": "https://goo.gl/maps/example2",
+    "icon": "icons/chef.png",
+    "priority": 8
+  },
+  {
+    "name": "Welness Forever - Medical",
+    "category": "Medical",
+    "city": "Miraj",
+    "description": "Providing authentic medicines, health supplements, and daily essentials with care and reliability. Always here for your family’s health needs.",
+    "image": "images/welness_forever.jpg",
+    "contact": "9876501234",
+    "whatsapp": "https://wa.me/919876501234",
+    "social": {
+      "facebook": "https://facebook.com/chefAnita"
+    },
+    "address": "Station Road, Miraj",
+    "map": "https://goo.gl/maps/example2",
+    "icon": "icons/chef.png",
+    "priority": 8
+  },
+  {
+    "name": "Sachin - Plumber",
+    "category": "Plumber",
+    "city": "Miraj",
+    "description": "Expert plumber offering quick and affordable solutions for pipe repairs, fittings, and maintenance. Available for both home and business needs",
+    "image": "images/plumbing.png",
+    "contact": "9876501234",
+    "whatsapp": "https://wa.me/919876501234",
+    "social": {
+      "facebook": "https://facebook.com/chefAnita"
+    },
+    "address": "Near Ambdekar Garden, Miraj",
+    "map": "https://goo.gl/maps/example2",
+    "icon": "icons/chef.png",
+    "priority": 8
+  },
+  {
+    "name": "Rahmatullah - Resto",
+    "category": "Restaurant",
+    "city": "Miraj",
+    "description": "Savor the essence of Mughlai tradition with our signature kebabs, creamy kormas, and slow-cooked biryanis. A perfect blend of spices and hospitality that makes every meal feel royal.",
+    "image": "images/rahmatullah.jpg",
+    "contact": "9876543210",
+    "whatsapp": "https://wa.me/919876543210",
+    "social": {
+      "facebook": "https://facebook.com/rajtutor",
+      "instagram": "https://instagram.com/rajtutor"
+    },
+    "address": "Shivaji Nagar, Miraj",
+    "map": "https://goo.gl/maps/example",
+    "icon": "icons/tutor.png",
+    "priority": 8
+  }
+]
